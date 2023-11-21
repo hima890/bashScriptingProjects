@@ -1,0 +1,8 @@
+# Path configuration var
+
+# Specify the path to your log file
+file_path="$PWD/log.txt"
+# Specify the path to your project folder
+directory_to_compress="/home/ahmed/Desktop/Projects"
+# Specify the path to your backup folder
+archive_folder="/home/ahmed/Desktop/buckup"

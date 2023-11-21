@@ -1,0 +1,38 @@
+2023-11-20 20:33:19
+Backup canceled.
+2023-11-20 20:33:29
+Backup initiated.
+Compression completed: /home/ahmed/Desktop/buckup/buckup.tar.gz
+2023-11-20 20:34:26
+Backup canceled.
+2023-11-20 21:00:48
+21:03:28 Backup initiated.
+21:03:28 Compression completed: /home/ahmed/Desktop/buckup/2023-11-21 21:03:28.tar.gz
+2023-11-20 21:03:28
+21:12:06 Backup initiated.
+21:12:06 Compression completed: /home/ahmed/Desktop/buckup/.tar.gz
+2023-11-20 21:12:06
+21:17:20 Backup initiated.
+21:17:20 The old backup 2023-11-21 21:17:20 has been deleted
+21:17:20 Compression completed: /home/ahmed/Desktop/buckup/.tar.gz
+2023-11-20 21:17:20
+21:18:57 Backup initiated.
+21:18:57 The old backup 2023-11-21 21:18:57 has been deleted
+21:18:57 Compression completed: /home/ahmed/Desktop/buckup/.tar.gz
+2023-11-20 21:18:57
+21:21:10 Backup initiated.
+21:21:10 The old backup 2023-11-21 21:21:10 has been deleted
+21:21:10 Compression completed: /home/ahmed/Desktop/buckup/.tar.gz
+2023-11-20 21:21:10
+21:23:31 Backup initiated.
+21:23:31 The old backup has been deleted
+21:23:31 Compression completed: /home/ahmed/Desktop/buckup/.tar.gz
+2023-11-20 20:23:31
+21:25:57 Backup initiated.
+21:25:57 The old backup has been deleted
+21:25:57 Compression completed: /home/ahmed/Desktop/buckup/2023-11-21 21:25:57.tar.gz
+2023-11-20 21:25:57
+21:26:42 Backup initiated.
+21:26:42 The old backup has been deleted
+21:26:42 Compression completed: /home/ahmed/Desktop/buckup/2023-11-21 21:26:42.tar.gz
+2023-11-21 21:26:42
