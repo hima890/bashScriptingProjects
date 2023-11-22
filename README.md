@@ -1,4 +1,3 @@
-```markdown
 # Backup Script Project
 
 This Bash script automates the backup of a specified directory, allowing you to run it at scheduled intervals. The script checks if 24 hours have passed since the last backup and, if so, initiates a new backup.
